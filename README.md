@@ -24,3 +24,4 @@
 
 เช็ค Week62Application.java
 > @EnableCaching
+> ![image](https://github.com/pure11pure/SOP-week6_2/assets/140476156/95c6859d-a66d-4137-8784-49669442f739)
